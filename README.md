@@ -17,4 +17,4 @@ In this game, the computer selects a random number between **0 and 10**, and the
 3. Run the program and start guessing!
 
 ## 📅 Completion Date
-*January 31, 2026*
+*January 31, 2026* + *Update 01.02.2026*
