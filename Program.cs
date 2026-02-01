@@ -16,7 +16,12 @@
             for (int i = 1; i <= 3; i++)
             {
                 UserInput =int.Parse(Console.ReadLine());// Enter input
-                if (UserInput == RandomNumberIntType)
+                if (UserInput != RandomNumberIntType && i == 3) //if you finish 3 hearts you lost game
+                {
+                    Console.WriteLine("You Lost Game");
+                    break;
+                }
+                if (UserInput == RandomNumberIntType )
                 {
                     Console.WriteLine("Congratulations You Found");
                     Console.ReadLine();//Enter and finish 
@@ -26,12 +31,12 @@
                 {
                     Console.WriteLine("Please say Bigger Number");
                 }
-                else 
+                else if(UserInput > RandomNumberIntType) // I shouldn't have written this, but I did to make it clear. (if)
                 {
                     Console.WriteLine("Please say Smaller Number");
                 }
             }
-            //Done 01.31.2026
+            //Done 01.31.2026 Update 02.01.2026
         }
     }
 }
