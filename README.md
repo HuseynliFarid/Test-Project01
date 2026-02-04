@@ -10,7 +10,8 @@ In this game, the computer selects a random number between **0 and 10**, and the
 - Limited attempts (3 lives).
 - Real-time feedback (Bigger/Smaller hints).
 - Built with C# Console Application.
-
+- If you lost output in the screen "You lost" and finish Game
+  
 ## 🛠️ How to Run
 1. Clone this repository or download the `Program.cs` file.
 2. Open it in **Visual Studio** or any C# compiler.
