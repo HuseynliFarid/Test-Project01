@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Text-Based_Survival RPG/1.0.0": {
+        "runtime": {
+          "Text-Based_Survival RPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Text-Based_Survival RPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

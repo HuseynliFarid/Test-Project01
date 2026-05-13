@@ -1,0 +1,14 @@
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.AssemblyInfoInputs.cache
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.AssemblyInfo.cs
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.csproj.CoreCompileInputs.cache
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\bin\Debug\net9.0\Text-Based_Survival RPG.exe
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\bin\Debug\net9.0\Text-Based_Survival RPG.deps.json
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\bin\Debug\net9.0\Text-Based_Survival RPG.runtimeconfig.json
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\bin\Debug\net9.0\Text-Based_Survival RPG.dll
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\bin\Debug\net9.0\Text-Based_Survival RPG.pdb
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.dll
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\refint\Text-Based_Survival RPG.dll
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.pdb
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\Text-Based_Survival RPG.genruntimeconfig.cache
+C:\Users\fridy\OneDrive\Desktop\consoleapps\Text-Based Survival RPG\Text-Based_Survival RPG\obj\Debug\net9.0\ref\Text-Based_Survival RPG.dll
